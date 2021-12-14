@@ -1,4 +1,4 @@
-# MrLogin RN 예제
+# MrLogin React.js 예제
 
 ## 사용된 라이브러리
 
